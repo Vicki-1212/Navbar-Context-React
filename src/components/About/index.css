@@ -1,0 +1,25 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.aboutlight {
+  background-color: #ffffff;
+  color: #334155;
+}
+
+.aboutdark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.about-image {
+  height: 30%;
+}
+
+.about-heading {
+  font-size: 50px;
+}

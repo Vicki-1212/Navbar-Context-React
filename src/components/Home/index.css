@@ -1,0 +1,32 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.hdark-container {
+  background-color: #000000;
+}
+
+.hlight-continer {
+  background-color: #ffffff;
+}
+
+.home-image {
+  height: 30%;
+}
+
+.home-heading {
+  font-size: 50px;
+  color: #334155;
+}
+
+.hdark {
+  color:#ffffff;
+}
+
+.hlight {
+  color:#334155;
+}
